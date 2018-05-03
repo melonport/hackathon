@@ -106,9 +106,16 @@ nav.navbar.transparent-white ul.ul-h.nav-menu>li>a:hover{
 .hero-content .container {
     vertical-align: middle;
     top: 40%;
-    display: table-caption;
+    display: inline;
 
 }
+/*
+.hero-content .container {
+    vertical-align: middle;
+    top: 40%;
+    display: table-caption;
+
+}*/
 h1.site-title{
   font-family: 'Ubuntu';
 	font-size: 98px;
